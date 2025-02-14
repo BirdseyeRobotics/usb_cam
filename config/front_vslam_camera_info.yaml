@@ -5,7 +5,7 @@ camera_matrix:
   rows: 3
   cols: 3
   data: [476.043, 0.000000, 316.8088, 0.000000, 476.043, 282.7012, 0.000000, 0.000000, 1.000000]
-distortion_model: fisheye
+distortion_model: equidistant
 distortion_coefficients:
   rows: 1
   cols: 4
